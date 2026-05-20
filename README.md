@@ -1,5 +1,5 @@
 # About Me:
-I'm Harshita Bhasin, a 3rd-year Information Technology undergraduate specializing in Data Science.<br><br>I'm passionate about Web Development, AI/ML, and building practical, user-focused applications.<br><br>I enjoy creating responsive web applications, working with APIs, and developing projects that solve real-world problems.<br><br>My work focuses on React, JavaScript, FastAPI, Python, REST APIs, and full-stack development.<br><br>I love turning ideas into clean, functional, and user-friendly digital products.<br><br>Main tech stack: React.js, JavaScript, HTML, CSS, FastAPI, Python, REST APIs.<br><br>Favorite tools: VS Code, GitHub, Vercel, Render, Google Colab.
+I'm Harshita Bhasin, a 3rd-year Information Technology undergraduate specializing in Data Science.<br><br>I'm passionate about Web Development, AI/ML, and building practical, user-focused applications.<br><br>I enjoy creating responsive web applications, working with APIs, and developing projects that solve real-world problems.<br><br>My work focuses on React, JavaScript, FastAPI, Python, REST APIs, and full-stack development.<br><br>I love turning ideas into clean, functional, and user-friendly digital products.<br><br>Main tech stack: React.js, JavaScript, HTML, CSS, FastAPI, Python, REST APIs.<br><br> Tools: VS Code, GitHub, Vercel, Render, Google Colab.
 
 
 ## 🌐 Socials:
